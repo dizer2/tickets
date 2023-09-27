@@ -1,0 +1,14 @@
+C:\Users\42077\Desktop\jizdenkaV2\bin\Debug\net7.0\..exe
+C:\Users\42077\Desktop\jizdenkaV2\bin\Debug\net7.0\..deps.json
+C:\Users\42077\Desktop\jizdenkaV2\bin\Debug\net7.0\..runtimeconfig.json
+C:\Users\42077\Desktop\jizdenkaV2\bin\Debug\net7.0\..dll
+C:\Users\42077\Desktop\jizdenkaV2\bin\Debug\net7.0\..pdb
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..AssemblyInfoInputs.cache
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..AssemblyInfo.cs
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..csproj.CoreCompileInputs.cache
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..dll
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\refint\..dll
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..pdb
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\..genruntimeconfig.cache
+C:\Users\42077\Desktop\jizdenkaV2\obj\Debug\net7.0\ref\..dll
